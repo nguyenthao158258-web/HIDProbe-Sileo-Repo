@@ -21,7 +21,7 @@ https://repo.example.com/
 ```text
 Package: com.hidprobe.agent
 Name: HIDProbe Agent
-Version: 2.1.4
+Version: 2.2.0
 Port: 17391
 ```
 
@@ -40,8 +40,8 @@ Khong tao icon app moi. App HID TrollStore van la app UI/status/config rieng.
 Packages
 Packages.gz
 Release
-debs/hidprobe-agent_2.1.4_rootful_iphoneos-arm64.deb
-debs/hidprobe-agent_2.1.4_rootful_iphoneos-arm64e.deb
+debs/hidprobe-agent_2.2.0_rootful_iphoneos-arm64.deb
+debs/hidprobe-agent_2.2.0_rootful_iphoneos-arm64e.deb
 ```
 
 ## Verify

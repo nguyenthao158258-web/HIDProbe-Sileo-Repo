@@ -1,30 +1,30 @@
 Package: com.hidprobe.agent
 Name: HIDProbe Agent
-Version: 2.1.4
+Version: 2.2.0
 Architecture: iphoneos-arm64
-Description: HIDProbe background HPB1 command agent for port 17391
-Maintainer: HIDProbe Maintainer
-Author: HIDProbe Maintainer
+Description: Background HPB1 HID stream and Lua automation OCR/color agent for port 17391
+Maintainer: chung
+Author: chung
 Section: Utilities
 Priority: optional
-Filename: debs/hidprobe-agent_2.1.4_rootful_iphoneos-arm64.deb
-Size: 134736
-MD5sum: 2bddb04be9a838746fc7c3a7c37a4e29
-SHA1: d3a1fb8007a4883e3ede3832c7d84bd44571aa7c
-SHA256: 44f87b86f64406e4d3908cfac8f4a626dadd8e31e2984bfbcb36ce11911b825d
+Filename: debs/hidprobe-agent_2.2.0_rootful_iphoneos-arm64.deb
+Size: 147320
+MD5sum: f2f567caab55bba057c17453d6a62428
+SHA1: 8b972e1e97a3d7b34b882b9cd1b49dbb0e33cc0b
+SHA256: 819dd984198dcd66027c849fbdd8ffa40f37f14f2778d1b028a17a19f14db5ef
 
 Package: com.hidprobe.agent
 Name: HIDProbe Agent
-Version: 2.1.4
+Version: 2.2.0
 Architecture: iphoneos-arm64e
-Description: HIDProbe background HPB1 command agent for port 17391
-Maintainer: HIDProbe Maintainer
-Author: HIDProbe Maintainer
+Description: Background HPB1 HID stream and Lua automation OCR/color agent for port 17391
+Maintainer: chung
+Author: chung
 Section: Utilities
 Priority: optional
-Filename: debs/hidprobe-agent_2.1.4_rootful_iphoneos-arm64e.deb
-Size: 134740
-MD5sum: 1e0e863a18ead87ebbd44a85bfe16836
-SHA1: 1d8089ca90cbf0ddab6657fb2c82f077b8b77ab9
-SHA256: 1027120f58d35252b51dbbc5773b924a97dd4fb87b2b292d03980820c4fcb4e7
+Filename: debs/hidprobe-agent_2.2.0_rootful_iphoneos-arm64e.deb
+Size: 147328
+MD5sum: d6063ba7316c1f2329405f3186ec0b20
+SHA1: 696ba8102a206ec3bb631eb49bca6baac05a4fd9
+SHA256: 8c61500cc54852f4f1dea82efa61f1967d37521492b86e7b84eeb66e26f1ae9b
 
