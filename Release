@@ -6,13 +6,13 @@ Codename: hidprobe
 Components: main
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Description: HIDProbe Agent Sileo repository
-Date: Sun, 05 Jul 2026 07:15:02 GMT
+Date: Sun, 05 Jul 2026 09:39:43 GMT
 MD5:
- c3a1c3535d71e8fa3b254a1aa9c00189 984 Packages
- 187bae2278653254ba41018af8f05479 480 Packages.gz
+ de29b9409eb22fcb46688e8233b78478 1016 Packages
+ d37f28e66508dd5e08c9cfa854d46af6 492 Packages.gz
 SHA1:
- 8fa44d70647d7e810405109b557892f3c7fbf755 984 Packages
- ec96dfaafea2ecc5397cd68eb2fafaeb41412286 480 Packages.gz
+ d46b07b13ec5a1619cefe602060669117e9425f7 1016 Packages
+ b43083c2177c08997a693e65b0bef0cf85590ca6 492 Packages.gz
 SHA256:
- fbce931e5f3d48285e06df1b637a5ef959162371ac84cd7ab676245d04b69a22 984 Packages
- 0fe63c3716085f7efa461bfe490650f6f78aeebe2384b38b6f9409572fb2b998 480 Packages.gz
+ 547c67eb9ad2ecb2079e10aedc32c058ba1b36a38b2fa6a0f5a14dd177ad5efe 1016 Packages
+ b4b0aa5ec8791b61db2e6cff2d3a21664538149c54469ecb21b705361af46fbc 492 Packages.gz
