@@ -1,18 +1,18 @@
-Origin: HIDProbe
-Label: HIDProbe Agent
+Origin: Nguyen Thao
+Label: Nguyen Thao Jailbreak Repo
 Suite: stable
 Version: 1.0
-Codename: hidprobe
+Codename: ios
+Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
-Architectures: iphoneos-arm64 iphoneos-arm64e
-Description: HIDProbe Agent Sileo repository
-Date: Sun, 05 Jul 2026 15:23:02 GMT
-MD5:
- 2cc6513e2c12c47b6412181021cdbc8f 1008 Packages
- 5af1fe1b191bdb6483f92eb327117b4d 493 Packages.gz
+Description: Nguyen Thao Sileo Repository
+Date: Tue, 07 Jul 2026 15:39:45 +0000
+MD5Sum:
+ 9e31d4b393ebfe04e6ec14aabb2e1504 2003 Packages
+ a2ab35b60d41b6028f81a557174817d0 771 Packages.gz
 SHA1:
- cc63f659d979560572c6d377a4d3619d045e5eed 1008 Packages
- 0769d091dcfa31d68e0953b70e61444410687bb9 493 Packages.gz
+ ce5cab68a6ade1cccdc2cbb3d4814bf8c145d94a 2003 Packages
+ ed6a397bb1a78aabf9b4344fbb4e074dd9f75c89 771 Packages.gz
 SHA256:
- 0f1740c43ffe9c96442cff89e94a5809b814cb421d62418549be176816611201 1008 Packages
- 0e74285845a83b3d191439385aea8d51215d9b6e35181fd01c424660a0dc329f 493 Packages.gz
+ 4ce4ae53740aff10c028e2ab3aab797d623eb11b2ba5be8f5093d9d3b156f5fe 2003 Packages
+ dcb60780e6d653439e15764edb128fc61b8620367ed3381fba0ae98c23fd64da 771 Packages.gz
