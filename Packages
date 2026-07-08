@@ -1,76 +1,360 @@
-Package: com.hidprobe.agent
-Version: 2.4.0
-Architecture: iphoneos-arm64e
-Maintainer: chung
-Filename: ./debs/hidprobe-agent_2.4.0_rootful_iphoneos-arm64e.deb
-Size: 297210
-MD5sum: dbea1dd1d61f774338b08cac8efddabd
-SHA1: d5b0bdcefc5aa354e8a06ce6b34681c5cf5f54f3
-SHA256: 2ae5b5738dee1c419f659f22db3b4e2a99c7cf63a0b465157bbf1066fbcb6648
+Package: com.codex.shadowtrace
+Name: Codex ShadowTrace
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Safe local runtime trace runner for ShadowTech forensic analysis
+Maintainer: Codex <codex.local>
+Author: Codex
 Section: Utilities
 Priority: optional
-Description: Background HPB1 HID stream core with USB health device metadata and Lua OCR/color worker
-Author: chung
-Name: HIDProbe Agent
+Filename: debs/com.codex.shadowtrace_0.1.0_iphoneos-arm.deb
+Size: 6212
+MD5sum: d764898822e8969fe977ce130c8960f2
+SHA1: 833cf8e1ac4ed847aaca5a8c4b54b49e110d0bce
+SHA256: f38b8199b4936a25e5a1f899ef3eeb85f5e7b7dabc98c74d7c68cf86bd046e65
 
-Package: com.hidprobe.agent
-Version: 2.4.0
-Architecture: iphoneos-arm64
-Maintainer: chung
-Filename: ./debs/hidprobe-agent_2.4.0_rootful_iphoneos-arm64.deb
-Size: 297210
-MD5sum: 68fd79944ec17906f8307592b706cbe3
-SHA1: 4660a0e88f831391d8a993fd24db59533de0fa49
-SHA256: fe646cdac637b2599a2ca78a6b2927ffe54eb636decd461d3ed40d42c9a74508
-Section: Utilities
-Priority: optional
-Description: Background HPB1 HID stream core with USB health device metadata and Lua OCR/color worker
-Author: chung
-Name: HIDProbe Agent
-
-Package: com.nguyenthao.shadowtrace
+Package: com.hidprobe.earnnettrace
+Name: HIDProbe EarnNetTrace
 Version: 0.1.0
 Architecture: iphoneos-arm64e
-Maintainer: Nguyen Thao
-Filename: ./debs/nguyenthao-shadowtrace_0.1.0_iphoneos-arm64e.deb
-Size: 10142
-MD5sum: 0d5383af120741d04caaf08f34fd83e4
-SHA1: 90b771111682b094a2343a252fd11e044c7d7317
-SHA256: f0db252b0a884e3fd1bd5bfc14ce9e075e84e25d50ad89ec3995c82ffc60844e
+Description: Network syscall logger injected only into Bright Rewards earnapp
+Maintainer: chung
+Author: chung
+Section: Tweaks
+Priority: optional
+Filename: debs/com.hidprobe.earnnettrace_0.1.0_iphoneos-arm64e.deb
+Size: 5918
+MD5sum: 85f69d4af65cfe3673114d2c161446a0
+SHA1: 4d7234e8722de801eb9f1189d14455dff8ccee33
+SHA256: cadcaf8c0896e24c922fab5ece3006a099e40aab6066509c8203d6f266614839
+
+Package: com.hidprobe.earnnettrace
+Name: HIDProbe EarnNetTrace
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Description: Network syscall logger injected only into Bright Rewards earnapp
+Maintainer: chung
+Author: chung
+Section: Tweaks
+Priority: optional
+Filename: debs/com.hidprobe.earnnettrace_0.1.1_iphoneos-arm64e.deb
+Size: 5970
+MD5sum: 93f3026581339f7af13c7c1b81fa81f4
+SHA1: 611a8f829b68956b26c1336aa057d64d27ca8e12
+SHA256: 7c95a0a30422b1a07257b3c4714d0523e82280a2bdad5e3e0adb9ff59676760b
+
+Package: com.hidprobe.earnnettrace
+Name: HIDProbe EarnNetTrace
+Version: 0.2.0
+Architecture: iphoneos-arm64e
+Description: Network syscall logger injected only into Bright Rewards earnapp
+Maintainer: chung
+Author: chung
+Section: Tweaks
+Priority: optional
+Filename: debs/com.hidprobe.earnnettrace_0.2.0_iphoneos-arm64e.deb
+Size: 9534
+MD5sum: 66919726447a360440d590cc9fcc9b79
+SHA1: f9a6966864eec245065d5eb4cf356234b6a70e4b
+SHA256: b6715c562bcaf5f70fcae13d2f33553164964cdb5e4c82e6b01fb1612b6cd091
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
 Section: Utilities
 Priority: optional
-Description: Nguyen Thao jailbreak ShadowTech forensic trace helper
+Filename: debs/com.hidprobe.earnwatch_0.1.0_iphoneos-arm64.deb
+Size: 12504
+MD5sum: 1c9ff276f30ea2474f12097629adbb9d
+SHA1: 1d33b9e02b45dc8ededcab0ebf8c8e75aa620706
+SHA256: e4004e11a3aabd706b1023e2150b1b4f544c12c3a81dd409f41b16da750b929e
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.1
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.1_iphoneos-arm64e.deb
+Size: 11366
+MD5sum: a3db01f922b64ede191fbb40d286e874
+SHA1: 8c517058c8e67d0c1e779ca194d03542b6385e01
+SHA256: 3acae8389023becc8578894e480507e99144ef40ac947f051f506d204abe07eb
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.2
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.2_iphoneos-arm64e.deb
+Size: 11562
+MD5sum: f0658d28eedb52da7c3836e098a7f390
+SHA1: acfa3eb994b5b6565cb6e66a48d759c9a2973c2d
+SHA256: 41daf106fb8a34d67531fd080a3753981ec557f9d591ff1c47ea5ce806f2b694
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.3
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.3_iphoneos-arm64e.deb
+Size: 11866
+MD5sum: 286a3627da7f40c96b681cdaa8501d31
+SHA1: c1cbd1de7a3598f4e82fc3e8857fbbebae713aec
+SHA256: b87cf1b5d73cad7231781895011a450f80e7bc69037f864a5a71c5bf683a58c4
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.4
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.4_iphoneos-arm64e.deb
+Size: 11738
+MD5sum: 8e3113db31f44ad355ff28452c699602
+SHA1: 4c8738fe6166e38610d57a305d7e74958d53f405
+SHA256: 7e2c9d3abaaf30cd2d1c00145ec4553fa06e00f6dbe1439eab757d87a6008471
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.5
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.5_iphoneos-arm64e.deb
+Size: 12170
+MD5sum: e14c03cdd90b0b79647572f2d0c355b8
+SHA1: fdb28c82162230744ba2eaaa3774066ffaf4ccaf
+SHA256: 842ff7dd3f09a1dfc68cf13b2c67de8407a300a39d3b3dfde3524f3e3894dda1
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.1.6
+Architecture: iphoneos-arm64e
+Description: Diagnose Bright Rewards foreground gray/connecting state using HIDProbe screenshots
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.1.6_iphoneos-arm64e.deb
+Size: 12224
+MD5sum: 64ef44bea3d93e6d4c1ad32328c8e326
+SHA1: 3614c48d4b144bf95fdaa02491b092ce4bce09ed
+SHA256: 9b7720f964bd371bc86f963877cf7bc5d58a29b0b53838f7d10c13a14fa0c2c3
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.0
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.0_iphoneos-arm64e.deb
+Size: 22750
+MD5sum: da4ce6a0ef46b9413154baa755144a90
+SHA1: 493a27b55f199b34dd7e73d1788ddd6c1b82b14e
+SHA256: 242cc7110dd5b26c14f7a2e05d7efbedb7727f323304e64042fcf26f02c9f5b0
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.1
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.1_iphoneos-arm64e.deb
+Size: 23136
+MD5sum: c6f7aa997df0be0f30478132bc12d8da
+SHA1: 8f145aa3abc552fafeaa0e71f4551bac3b1be8c6
+SHA256: c7a1be0ab2f7019bd2a52e71a13d48f512026c339bc53febb3aeb1be31293b88
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.2
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.2_iphoneos-arm64e.deb
+Size: 23732
+MD5sum: 8cd217d52d7ccc3de92bc54044eb8841
+SHA1: 461e4a4abd308716701f865283be5f9d549b6c06
+SHA256: 0422e0692b72749c3ce14df575c68994e7717db572b5b4cb38c2f97c383c4d87
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.3
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.3_iphoneos-arm64e.deb
+Size: 23972
+MD5sum: ecf9d044a0ee71462f4ed634038c33e6
+SHA1: f29b39c54a7e69a7d81adca81849db8d8bed4af0
+SHA256: bdf42dccca2809ae6457175eff498130d6c94efb8200521b7741e5e621c18c89
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.4
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.4_iphoneos-arm64e.deb
+Size: 24766
+MD5sum: bd97e04b029a9b89e4fa83348edb4e93
+SHA1: 037d60ae45832dcb45ba5b70c94859c59c3e5889
+SHA256: b004bd59fd220d9f2b6d2e670557532f01fad92ac394c2ff4e0e6c5e440223aa
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.5
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.5_iphoneos-arm64e.deb
+Size: 24768
+MD5sum: 3bd1c29b8fe56ada5d7017791d13f7c2
+SHA1: a52c92d3c4be05d4abd213459278f96aafa5a53c
+SHA256: 47acccbed045e6dbbf3ed8e50c6d19acfb377c48c95e8d6fd739885085fd2fd2
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.6
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.6_iphoneos-arm64e.deb
+Size: 24768
+MD5sum: 581f94ad1e125c64d5b6ec28607f3309
+SHA1: 22b83d54bdd389c9e4a5f7150a8db776702ab31c
+SHA256: f7b2073d4226d3cd19e2e83919e032bb24ecd0d505414511786dad4f2051ac56
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.7
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.7_iphoneos-arm64e.deb
+Size: 25146
+MD5sum: c362ddf15d2cf6ad9ba9f15628d61c1b
+SHA1: 0bef0367849612363fe36f2e10c59029fbd01874
+SHA256: f5e7868aa537ad3cd558cec5234f73ccefd962ae8da7216540f29e20093739ac
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.8
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.8_iphoneos-arm64e.deb
+Size: 25560
+MD5sum: 9627a8ac657c689eba21b13db97693d0
+SHA1: b51a40ea8fee604eaded4972eb86695b4463fcc1
+SHA256: 29daad073d6e8340c88e46d69f83a632e9f251a010e086862839f15e0b87e62a
+
+Package: com.hidprobe.earnwatch
+Name: HIDProbe EarnWatch
+Version: 0.2.9
+Architecture: iphoneos-arm64e
+Description: Watch Bright Rewards gray/connecting state, classify SDK/network reason, and reset after timeout
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.2.9_iphoneos-arm64e.deb
+Size: 25940
+MD5sum: cf6a8aa5982498e8725aa8d23f1303b1
+SHA1: 1ee290e0e2c9612ce4c3247db3d7532815e754a2
+SHA256: c6fb02537dfcb92f4aad17529dc0eaa21867e3858f5ee50c2d8ed1154be7fc7e
+
+Package: com.nguyenthao.tiktokcheater
+Name: Tiktok Clone Cheater
+Description: Đổi thông số thiết bị và Wipe Data cho Tiktok
+Maintainer: Nguyen Thao
 Author: Nguyen Thao
-Name: Nguyen Thao ShadowTrace
+Section: Utilities
+Priority: optional
+Architecture: iphoneos-arm64
+Version: 1.0.2-1+debug
+Installed-Size: 312
+Filename: debs/com.nguyenthao.tiktokcheater_1.0.2-1+debug_iphoneos-arm64.deb
+Size: 26090
+MD5sum: 016e9c589910bea22569b1a5aa911c88
+SHA1: c7e65a8ba6998dc388a88b5e7ae653df09c4d744
+SHA256: ac4d2ce1f00f65886fad2cace2c30110db75132c143f35226edec7dbdbd29fc3
 
 Package: com.nguyenthao.shadowtrace
+Name: Nguyen Thao ShadowTrace
 Version: 0.1.0
 Architecture: iphoneos-arm64
+Description: Nguyen Thao jailbreak ShadowTech forensic trace helper
 Maintainer: Nguyen Thao
-Filename: ./debs/nguyenthao-shadowtrace_0.1.0_iphoneos-arm64.deb
+Author: Nguyen Thao
+Section: Utilities
+Priority: optional
+Filename: debs/nguyenthao-shadowtrace_0.1.0_iphoneos-arm64.deb
 Size: 10050
 MD5sum: 1067b17b142ac2f8e45c6a6162ced5ff
 SHA1: 6b4b12ef63ac3e4aea57c54c3eb46673425b595a
 SHA256: 7b3607d8f1b09bbd5e8b311f8da1837ecbf1101279dd8d958483cf7104af3c82
-Section: Utilities
-Priority: optional
-Description: Nguyen Thao jailbreak ShadowTech forensic trace helper
-Author: Nguyen Thao
+
+Package: com.nguyenthao.shadowtrace
 Name: Nguyen Thao ShadowTrace
-
-Package: com.nguyenthao.tiktokcheater
-Version: 1.0.0-1+debug
+Version: 0.1.0
 Architecture: iphoneos-arm64e
+Description: Nguyen Thao jailbreak ShadowTech forensic trace helper
 Maintainer: Nguyen Thao
-Installed-Size: 560
-Filename: ./debs/com.nguyenthao.tiktokcheater_1.0.0-1+debug_iphoneos-arm64e.deb
-Size: 74056
-MD5sum: 5fe162f55b509adc726c1b6f6383819d
-SHA1: a5d903a860eadd65cd2d094f42a3ada2fe21448b
-SHA256: 9c6013c4ab5dfebe2643535a7a325f9c525307420a927e62d71d34caef9aeb07
+Author: Nguyen Thao
 Section: Utilities
 Priority: optional
-Description: Đổi thông số thiết bị và Wipe Data cho Tiktok
-Author: Nguyen Thao
-Name: Tiktok Clone Cheater
-
+Filename: debs/nguyenthao-shadowtrace_0.1.0_iphoneos-arm64e.deb
+Size: 10142
+MD5sum: 0d5383af120741d04caaf08f34fd83e4
+SHA1: 90b771111682b094a2343a252fd11e044c7d7317
+SHA256: f0db252b0a884e3fd1bd5bfc14ce9e075e84e25d50ad89ec3995c82ffc60844e
