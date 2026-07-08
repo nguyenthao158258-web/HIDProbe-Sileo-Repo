@@ -1,18 +1,8 @@
-Origin: Nguyen Thao
-Label: Nguyen Thao Jailbreak Repo
+Origin: Nguyen Thao Repo
+Label: Nguyen Thao
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
+Architectures: iphoneos-arm
 Components: main
-Description: Nguyen Thao Sileo Repository
-Date: Tue, 07 Jul 2026 15:39:45 +0000
-MD5Sum:
- 9e31d4b393ebfe04e6ec14aabb2e1504 2003 Packages
- a2ab35b60d41b6028f81a557174817d0 771 Packages.gz
-SHA1:
- ce5cab68a6ade1cccdc2cbb3d4814bf8c145d94a 2003 Packages
- ed6a397bb1a78aabf9b4344fbb4e074dd9f75c89 771 Packages.gz
-SHA256:
- 4ce4ae53740aff10c028e2ab3aab797d623eb11b2ba5be8f5093d9d3b156f5fe 2003 Packages
- dcb60780e6d653439e15764edb128fc61b8620367ed3381fba0ae98c23fd64da 771 Packages.gz
+Description: Repo lưu trữ App Tiktok Cheater
