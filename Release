@@ -6,13 +6,13 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: Nguyen Thao Sileo Repository
-Date: Wed, 08 Jul 2026 17:28:59 +0000
+Date: Wed, 08 Jul 2026 18:21:27 +0000
 MD5Sum:
- 82416c89001138e2daea3b9d8555d287 12253 Packages
- e4576ee0db15a8e6a2182e86e4069d2b 3113 Packages.gz
+ 3657c9d8b480e82346eb7f9b1be3bb2d 12776 Packages
+ ba0b4cae2a4b473408a7d9c5a31ecf34 3288 Packages.gz
 SHA1:
- 8172a6ea04f855347d12892c2906e0b7488e88f1 12253 Packages
- bbb03218fe13089e617b880b6e9f207bf5ad78d6 3113 Packages.gz
+ 37ec57cd0c390296864453f71dc1f15a02a50f13 12776 Packages
+ 580497290a027e1ec1298dac237878acc5781075 3288 Packages.gz
 SHA256:
- f94bab4995918460faf1842bf8df63d97bfc69a6468830aa937ead990feeaaeb 12253 Packages
- ae729c5a7281b5c7ed28b4004185066019e9c8d81cf6029224ad60ad4cc63332 3113 Packages.gz
+ eacca6b64987700cadba66a51c50d9b36a7431a192ff827c45f704fc04ef3221 12776 Packages
+ a716a8fd4a9f85d192f18d5ec1ca9221f7f6edb2a5bcd78712d768b8698bcb06 3288 Packages.gz
