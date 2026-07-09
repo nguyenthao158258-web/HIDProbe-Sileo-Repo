@@ -358,6 +358,21 @@ MD5sum: 5568b26d1a99f8cfef7a5ab7dd2ab153
 SHA1: de906b58755335e13ed67b3363ba536ddb7ea5c8
 SHA256: bba72baa5bf00a079a108c4c369e3a9e779003c59316258c3259c10a72820161
 
+Package: com.hidprobe.earnwatch
+Name: Check Earn App
+Version: 0.4.3
+Architecture: iphoneos-arm64e
+Description: Always-on EarnApp debug bubble, 2s gray polling, proxy exit IP watch, SDK fast reset, brightness guard, and gray-state reset
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.4.3_iphoneos-arm64e.deb
+Size: 85910
+MD5sum: 49875bd3a9a12ee03d9fe3bec73e1726
+SHA1: 755a31f475318415514028ed49c9135bb0b18a69
+SHA256: a5e6aae21d9ee108364f6835ebf72552831f99d4318b5d04678c960e41cb03aa
+
 Package: com.nguyenthao.tiktokcheater
 Name: Tiktok Clone Cheater
 Description: Đổi thông số thiết bị và Wipe Data cho Tiktok
