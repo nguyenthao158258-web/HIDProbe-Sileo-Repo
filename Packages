@@ -45,19 +45,19 @@ SHA256: d989bac29a7d80f2e88a102b825e3d1edac2043aeb2d771b77b13ba9caaa4109
 
 Package: com.hidprobe.earnwatch
 Name: Check Earn App
-Version: 0.4.75
+Version: 0.4.76
 Architecture: iphoneos-arm64e
-Depends: com.hidprobe.agent (>= 2.4.0), com.hidprobe.earnnettrace (>= 0.2.0), com.hidprobe.wifilanipoverlay (>= 0.2.0)
+Depends: com.hidprobe.agent (>= 2.4.0), com.hidprobe.earnnettrace (>= 0.2.0), com.hidprobe.wifilanipoverlay (>= 0.2.0), com.hidprobe.earntraffic (>= 0.1.5)
 Description: Always-on EarnApp debug bubble, direct exit IP watch, gray countdown reset, and blocking modal repair
 Maintainer: chung
 Author: chung
 Section: Utilities
 Priority: optional
-Filename: debs/com.hidprobe.earnwatch_0.4.75_iphoneos-arm64e.deb
-Size: 142622
-MD5sum: 6a579f21346710cd7cdfa662d0e48ddb
-SHA1: cb81a716c4c990cb2a5a8cc5f05f5f3fa7399474
-SHA256: 503f3f4b6d4bea16a83a8f9136d164093fd3b1e46b0a2ee8e64fbe1305cd2dea
+Filename: debs/com.hidprobe.earnwatch_0.4.76_iphoneos-arm64e.deb
+Size: 142638
+MD5sum: 0c0f1d632e7839a715fc3787080098cc
+SHA1: f9d88cebdfe89a57f6ec0bc063fcbb3fc2031213
+SHA256: 52136eba3d55cee1720a8ddbb5f77967453c723b9f513ce4a482d1573d62e99e
 
 Package: com.hidprobe.wifilanipoverlay
 Name: WiFi LAN IP Overlay
