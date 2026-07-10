@@ -30,18 +30,18 @@ SHA256: b6715c562bcaf5f70fcae13d2f33553164964cdb5e4c82e6b01fb1612b6cd091
 
 Package: com.hidprobe.earntraffic
 Name: HIDProbe Earn Traffic
-Version: 0.1.5
+Version: 0.1.7
 Architecture: iphoneos-arm64e
 Description: EarnApp-only traffic live bubble and daily traffic-time log
 Maintainer: Nguyen Thao
 Author: Nguyen Thao
 Section: Tweaks
 Priority: optional
-Filename: debs/com.hidprobe.earntraffic_0.1.5_iphoneos-arm64e.deb
-Size: 24972
-MD5sum: ece3c6b8ff7b96dd33ce0e98f9852685
-SHA1: 623ea2342a2707d4c8d6c3ee6f2578d7b085616b
-SHA256: d989bac29a7d80f2e88a102b825e3d1edac2043aeb2d771b77b13ba9caaa4109
+Filename: debs/com.hidprobe.earntraffic_0.1.7_iphoneos-arm64e.deb
+Size: 27618
+MD5sum: 8383c605e6baf7e6b873ec45fe510ea9
+SHA1: 44652c4b3a9de923492cba587973a4dfe1635045
+SHA256: 7c4fe89a506197242b10f0fbd4e04475688d0177ab81d8eacabbff785c2ae01c
 
 Package: com.hidprobe.earnwatch
 Name: Check Earn App
