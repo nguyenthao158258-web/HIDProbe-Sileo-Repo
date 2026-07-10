@@ -30,19 +30,34 @@ SHA256: b6715c562bcaf5f70fcae13d2f33553164964cdb5e4c82e6b01fb1612b6cd091
 
 Package: com.hidprobe.earnwatch
 Name: Check Earn App
-Version: 0.4.74
+Version: 0.4.75
 Architecture: iphoneos-arm64e
-Depends: com.hidprobe.agent (>= 2.4.0), com.hidprobe.earnnettrace (>= 0.2.0)
+Depends: com.hidprobe.agent (>= 2.4.0), com.hidprobe.earnnettrace (>= 0.2.0), com.hidprobe.wifilanipoverlay (>= 0.2.0)
 Description: Always-on EarnApp debug bubble, direct exit IP watch, gray countdown reset, and blocking modal repair
 Maintainer: chung
 Author: chung
 Section: Utilities
 Priority: optional
-Filename: debs/com.hidprobe.earnwatch_0.4.74_iphoneos-arm64e.deb
-Size: 142604
-MD5sum: 7874ba8aef581fa44c071d946cd9cb22
-SHA1: 34bbd0cb33d422a81b029e2a3a08ad7dd49e9f65
-SHA256: da985f03fb2d9ec14eb6ba7c442d29a47dc223af3bfffda27fed50d3f962769c
+Filename: debs/com.hidprobe.earnwatch_0.4.75_iphoneos-arm64e.deb
+Size: 142622
+MD5sum: 6a579f21346710cd7cdfa662d0e48ddb
+SHA1: cb81a716c4c990cb2a5a8cc5f05f5f3fa7399474
+SHA256: 503f3f4b6d4bea16a83a8f9136d164093fd3b1e46b0a2ee8e64fbe1305cd2dea
+
+Package: com.hidprobe.wifilanipoverlay
+Name: WiFi LAN IP Overlay
+Version: 0.2.0
+Architecture: iphoneos-arm64e
+Description: Shows the real Wi-Fi LAN IPv4 address on every screen
+Maintainer: Nguyen Thao
+Author: Nguyen Thao
+Section: Tweaks
+Priority: optional
+Filename: debs/com.hidprobe.wifilanipoverlay_0.2.0_iphoneos-arm64e.deb
+Size: 12974
+MD5sum: 4950995b5410a81bd5e42d5bd9e3de48
+SHA1: b0b33c8cee86267edec344e31f405c276a05370b
+SHA256: 7ceeac6a82feba1ce842d4f01d116c0c0b59aee7fc01037b3501bafaa792f591
 
 Package: com.nguyenthao.tiktokcheater
 Name: Tiktok Clone Cheater
