@@ -6,13 +6,22 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: Nguyen Thao Sileo Repository
-Date: Sat, 11 Jul 2026 04:41:05 +0000
+Date: Sat, 11 Jul 2026 04:47:18 +0000
 MD5Sum:
- 51dfb21b7b738bb54a637eba4cd06ac5 5830 Packages
- e18f15c38bbeb4a45662a39e46dfc223 2174 Packages.gz
+ f0359f02af0f9537d24c9066503a2b73 5829 Packages
+ b7226e47ed4b39f4ca7e94ab6fa02360 2177 Packages.gz
+ 8c79471ece6b0500145dd1f314fe2ef5 2303 Packages.bz2
+ 9fc1f98693034a044c43b41eb9351b26 2136 Packages.xz
+ 4cc0a483aec20566729de0a6857399b0 2092 Packages.lzma
 SHA1:
- ad18ce9db5f3a6b7ba5e9d8d1536fd19d71b0309 5830 Packages
- f398dc7c24457611764b8cb6c45f15f03e9fd653 2174 Packages.gz
+ c797c63e22c7a8e9a00671377b17855316ae7fd6 5829 Packages
+ 140bfbafb60f0da1c5bc7cd975074426248e7b70 2177 Packages.gz
+ 39e14d4f84ee5d0e9a87e25e3f6106eebf4973c0 2303 Packages.bz2
+ efdb71ac3e39d50bcf7b81973640564fda807a6b 2136 Packages.xz
+ d7b6ee2fbbcad94d70b8b8376c1e304392879070 2092 Packages.lzma
 SHA256:
- 4f45dcbc0e165b247fb29c6559e00f524a5455cc9c1664a2eb0978cf8a401f8d 5830 Packages
- 67fac41638cd03f676241add7e5f4b0e61dc7dbd295a4b2d6f89cf8845c41950 2174 Packages.gz
+ 68e4d18ac7bf0cc4d510d8d871dd178618e6760f4125f4e2cf2217131008430e 5829 Packages
+ 4bd52deacd922fd8afb4aeee643da95c5536505432bc835b511ddde801594244 2177 Packages.gz
+ d48a13b12d8dcaca2b7d35c2e1eb2c3677401f09ac319a710489c379cc8068b3 2303 Packages.bz2
+ d1f03c03c146ba9431f760896f928a1c3bb55552f8f461579f90cfeaa1dfcf24 2136 Packages.xz
+ 8b3f8d8fb6bc494ca0be7cf45a1320acf38eadaa4e7c4a26b8b208f9a6e08655 2092 Packages.lzma

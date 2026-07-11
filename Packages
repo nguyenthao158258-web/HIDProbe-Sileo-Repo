@@ -76,19 +76,19 @@ SHA256: 7ceeac6a82feba1ce842d4f01d116c0c0b59aee7fc01037b3501bafaa792f591
 
 Package: com.nguyenthao.shadowfixcha
 Name: Fix CH/A Shadow for ShadowHelper
-Version: 0.1.4
+Version: 0.1.5
 Architecture: iphoneos-arm64e
 Description: Auto-fix ShadowHelper CH/A network offline issue by allowing its iOS NetworkExtension Wi-Fi and cellular rule.
 Maintainer: Nguyen Thao <nguyenthao@local>
 Author: Nguyen Thao
-Section: Fix CH/A Shadow
+Section: Fix CHA Shadow
 Priority: optional
 Depends: firmware (>= 12.0)
-Filename: debs/com.nguyenthao.shadowfixcha_0.1.4_iphoneos-arm64e.deb
-Size: 7510
-MD5sum: d9881a734e11912c24453de0db8be9ee
-SHA1: eee321e41f6be384932e3e02bb6f59b03e39321c
-SHA256: 1fbdba3e3d91175a58ca33fa6df8241d63e396c734ef15baef2ac9ae83baa8d4
+Filename: debs/com.nguyenthao.shadowfixcha_0.1.5_iphoneos-arm64e.deb
+Size: 7514
+MD5sum: cc73e52e1b024eab93f9eb323b07066a
+SHA1: 457717459b924392432fb455076815af654b7838
+SHA256: 586bd21a23adc7560c92a80c77a128fbe577778a466b7f1f897f8ef59f8e1e93
 
 Package: com.nguyenthao.tiktokcheater
 Name: Tiktok Clone Cheater
