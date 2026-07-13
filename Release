@@ -6,22 +6,22 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: Nguyen Thao Sileo Repository
-Date: Sun, 12 Jul 2026 16:18:57 +0000
+Date: Mon, 13 Jul 2026 07:05:11 +0000
 MD5Sum:
- 2e9666b674079dd3ab5e72d773b79cb4 7130 Packages
- 095eeb38a21017175fa9c589e316e0d3 2455 Packages.gz
- 4f6c810ccdd182127a8b519ce055606e 2570 Packages.bz2
- 740538646688c96f4808eb8df5f851ac 2408 Packages.xz
- f9b5fcd61faf59b695587b5e44bf9e14 2358 Packages.lzma
+ 9949aeb0a6e8161ef390d5bf10eae54f 7798 Packages
+ 171fb648af08eb9581e2be3ddbf68360 2579 Packages.gz
+ d82aa6cebee4ed706bf9d74d87b49a2d 2698 Packages.bz2
+ cc47efce84cde2a234fa1b796e335791 2492 Packages.xz
+ d9cfa24035d53c4582d64489873ed978 2451 Packages.lzma
 SHA1:
- 17430a78e6f0392ead3653fbc7b0a9cbcdd366a0 7130 Packages
- 9804773a8875a3ca41609d82dee0e053d3214b37 2455 Packages.gz
- 51ec605740d61b3c20dbdabe04a3bcd5d98a4c7d 2570 Packages.bz2
- 4fdebe0d92f66979a55d247e86fd404c3e760d8c 2408 Packages.xz
- 8d58dbd5a6d5b88c4cc9326f1f88007d2fd667ef 2358 Packages.lzma
+ dcdc319dfd53687ed4c2e39e5c22e2a4ebc51fb6 7798 Packages
+ 1cf179a0e47bada6561b7ac605c1336e4826d0b3 2579 Packages.gz
+ d2be025ae3af47f7f4a4a34f8287fb5e5831fe97 2698 Packages.bz2
+ dd51da90b7aac265e3b88b060e3444a12bc13262 2492 Packages.xz
+ e3f07b9e70afdb7d8039c869c43d5fdccac917ef 2451 Packages.lzma
 SHA256:
- 8928dc4f6abd6f7d8eff2be44df1f99848328111fce2a33ce7a695126cd04e0e 7130 Packages
- fc017d1e6d9bd7e84096edf650c20c6428d1c24e185aa03b69b6113c74fc8ee8 2455 Packages.gz
- 3d10259b574bebdb1a094fe1fd7cc0b9be88dde18463ed7a946e60a14bbf94cb 2570 Packages.bz2
- b58477675e0258a89255a945f79776ce65b4b2243646fe78cbe422141bb6a1d9 2408 Packages.xz
- cc4dcfeaea82931b30dd603b327c5438276d89bd9bee37fb8091c9c18167a702 2358 Packages.lzma
+ 859e5e94db153d422a58e1206561f62cbae4ada2a8e258c0bab145eeffa2c0b0 7798 Packages
+ a1677ead56b22d410e86f064cb17978df2379780eb3e3c533b1c11bf9c699f8f 2579 Packages.gz
+ 7a8cc144fcdcfff96d3672636829feb39c3a1592f8e5513bbef07d565a9b6c85 2698 Packages.bz2
+ 418be5b2899acdc2cafe2a4c78dbf62b0f26a240fb4fc21ce62fe5bc0ec1bee1 2492 Packages.xz
+ 1fb7caa003ebc8a3903f3c2e6d90032e10255db204950f1db7e4231bfca62d10 2451 Packages.lzma
