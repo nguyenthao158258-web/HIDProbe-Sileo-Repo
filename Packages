@@ -107,6 +107,22 @@ MD5sum: 8fe61daa3e175023f53789a407b4bdb1
 SHA1: de401977b9fa50c0786010ef371951944e006690
 SHA256: cd8c661c1c406bbf5db917ebda0b0e94d39b8f4644530e0d5d2d5b1b0b3ab948
 
+Package: com.hidprobe.earnwatch
+Name: Check Earn App
+Version: 0.4.94
+Architecture: iphoneos-arm64e
+Depends: com.hidprobe.agent (>= 2.4.0), com.hidprobe.earnnettrace (>= 0.2.0), com.hidprobe.wifilanipoverlay (>= 0.2.0), com.hidprobe.earntraffic (>= 0.1.7)
+Description: EarnApp debug bubble with persisted SDK stuck-state repair and bounded bridge injection
+Maintainer: chung
+Author: chung
+Section: Utilities
+Priority: optional
+Filename: debs/com.hidprobe.earnwatch_0.4.94_iphoneos-arm64e.deb
+Size: 172998
+MD5sum: 4c626b0eb18315eac4f10cab5cd78c51
+SHA1: 7d0adabfe97934c758e406bddff1ba11d520a6fd
+SHA256: bc5b00bca932d473cfe234531210bc6d7f6e5b2a09d433220dc3577a4f3edeb8
+
 Package: com.hidprobe.wifilanipoverlay
 Name: WiFi LAN IP Overlay
 Version: 0.2.0
