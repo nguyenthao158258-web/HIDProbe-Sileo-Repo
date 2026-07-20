@@ -15,7 +15,7 @@ SHA256: f38b8199b4936a25e5a1f899ef3eeb85f5e7b7dabc98c74d7c68cf86bd046e65
 
 Package: com.hidprobe.autotap
 Name: HIDProbe Auto Tap
-Version: 0.4.2
+Version: 0.4.3
 Architecture: iphoneos-arm64e
 Depends: com.hidprobe.agent (>= 2.4.0)
 Description: Floating user-controlled auto tap overlay with on/off app using HIDProbe
@@ -23,11 +23,11 @@ Maintainer: chung
 Author: chung
 Section: Utilities
 Priority: optional
-Filename: debs/com.hidprobe.autotap_0.4.2_iphoneos-arm64e.deb
-Size: 103704
-MD5sum: 3d15c598b58036197bef11e095fef146
-SHA1: 42b225af5c16941300178965363c695f2f1ab79d
-SHA256: db3e7cba4bd42cb978303f367f33c0b24200240fb91caaf9a00ee7e470d83169
+Filename: debs/com.hidprobe.autotap_0.4.3_iphoneos-arm64e.deb
+Size: 103490
+MD5sum: df4a868c7f25ca6c87f60675d1f80746
+SHA1: da50538774e1a9b552338f0c5040a0ef016ed363
+SHA256: 21adfe5c4b4a62b1236a17b3faf5d8e620034fdb33df32431e43c0f56080ef3e
 
 Package: com.hidprobe.earnnettrace
 Name: HIDProbe EarnNetTrace
